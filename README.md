@@ -1,5 +1,5 @@
 # fcukmoodle
-    FOLLOW THESE STEPS:
+   FOLLOW THESE STEPS:
     STEP 1 > download and run this https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v5.0.0-alpha.20200328.exe
     STEP 2 > C:\Program Files\Tesseract-OCR while install check the path 
     STEP 3 > Then download this file https://drive.google.com/file/d/14ZW-8gHop9UGhoPPL8SgdNS3kyEPlrP8/view?usp=sharing (this is the main software)
